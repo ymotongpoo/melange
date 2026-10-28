@@ -1,0 +1,19 @@
+README.md
+  s_33f639c294a204::t_80ec8817c79140 163-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "91671cc6a5596a5daaec4f18972932949190d0e2",
+  "prompts": {},
+  "sessions": {
+    "s_33f639c294a204": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17d3f-f701-7f31-b677-1c5180afbfa4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Yoshi Yamaguchi <ymotongpoo@gmail.com>"
+    }
+  }
+}
