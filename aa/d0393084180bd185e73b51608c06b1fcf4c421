@@ -1,0 +1,31 @@
+go.mod
+  s_33f639c294a204::t_90b22652adb9ae 6,47,66,100,102,105,170,172
+.github/workflows/digestabot.yaml
+  s_33f639c294a204::t_90b22652adb9ae 24,44
+.github/workflows/melange-test-pipelines.yaml
+  s_33f639c294a204::t_90b22652adb9ae 32,72,146,154,159,236,262
+.github/workflows/release.yaml
+  s_33f639c294a204::t_90b22652adb9ae 21
+.github/workflows/wolfi-presubmit.yaml
+  s_33f639c294a204::t_90b22652adb9ae 20,100,108,113,165,212
+docs/BUILD-FILE.md
+  s_33f639c294a204::t_90b22652adb9ae 473
+go.sum
+  s_33f639c294a204::t_4f943c2f122656 1-2,7-8,112-113,132-133,383-384,451-452,462-463
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aad0393084180bd185e73b51608c06b1fcf4c421",
+  "prompts": {},
+  "sessions": {
+    "s_33f639c294a204": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17d3f-f701-7f31-b677-1c5180afbfa4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Yoshi Yamaguchi <ymotongpoo@gmail.com>"
+    }
+  }
+}
